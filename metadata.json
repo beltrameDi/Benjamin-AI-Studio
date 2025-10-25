@@ -1,0 +1,5 @@
+{
+  "name": "Pensa rapido",
+  "description": "A fast-paced 2-player card game where players match icons to discard their cards. The first player to get rid of all their cards wins!",
+  "requestFramePermissions": []
+}
